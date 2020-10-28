@@ -7,7 +7,7 @@ Ubuntu 18.04 LTS Release Party 라이트닝토크에서 발표한 자료입니�
 
  **MS에서는 해당 경로의 파일을 수정하지 말것을 권장함**
 
-발표 동영상 : https://youtu.be/bfGW__ogjwI  
+발표 동영상 : https://youtu.be/gkcC33z54DI
 
 
 
